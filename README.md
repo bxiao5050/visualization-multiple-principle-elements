@@ -1,4 +1,4 @@
-# Visualization-of-multiple-principle-elements
+# Visualization-composition-space-of-multiple-principle-elements
 Effective visualization of multi-dimensional data
 
 
